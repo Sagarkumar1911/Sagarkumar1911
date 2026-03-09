@@ -1,8 +1,7 @@
 
-   <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&lines=Hi+there,+I'm+Sagar!👋;Data+Science+Undergraduate;GenAI+&+MLOps+Enthusiast" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0077BE&center=true&vCenter=true&lines=Hi+there,+I'm+Sagar!👋;Data+Science+Undergraduate;GenAI+&+MLOps+Enthusiast" />
 </p>
-
 <p align="center">
   <b>Data Science undergraduate</b> with hands-on experience building, optimizing, and deploying end-to-end ML systems. Adept at architecting scalable solutions, including real-time predictive models and multimodal RAG applications. Ready to use knowledge of Python, Deep Learning, and Generative AI to produce significant outcomes in a fast-paced tech setting.
 </p>
