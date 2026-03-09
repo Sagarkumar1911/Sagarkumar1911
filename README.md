@@ -14,7 +14,7 @@
       <h3>🎓 Academic Background</h3>
       <ul>
         <li><b>Institution:</b> Manipal University Jaipur (MUJ)</li>
-        <li><b>Degree:</b> B.Tech in Data Science</li>
+        <li><b>Degree:</b> B.Tech CSE(Data Science) </li>
         <li><b>Academic Standing:</b> 8.2 CGPA</li>
       </ul>
     </td>
