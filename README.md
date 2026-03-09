@@ -1,4 +1,7 @@
-<h1 align="center">Hi there, I'm Sagar! 👋</h1>
+
+   <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&lines=Hi+there,+I'm+Sagar!👋;Data+Science+Undergraduate;GenAI+&+MLOps+Enthusiast" />
+</p>
 
 <p align="center">
   <b>Data Science undergraduate</b> with hands-on experience building, optimizing, and deploying end-to-end ML systems. Adept at architecting scalable solutions, including real-time predictive models and multimodal RAG applications. Ready to use knowledge of Python, Deep Learning, and Generative AI to produce significant outcomes in a fast-paced tech setting.
@@ -15,6 +18,8 @@
         <li><b>Degree:</b> B.Tech in Data Science</li>
         <li><b>Academic Standing:</b> 8.2 CGPA</li>
       </ul>
+    </td>
+    <td align="left" width="50%" valign="top">
       <h3>🤖 Featured Projects</h3>
       <ul>
         <li><b>CinaMatch AI:</b> Full-stack movie recommendation system using NLP.</li>
@@ -22,25 +27,28 @@
         <li><b>Heart Disease Prediction:</b> Predictive healthcare analytics.</li>
       </ul>
     </td>
-    <td align="center" width="50%" valign="top">
-      <h3>⚡ GitHub Stats</h3>
-      <a href="https://github.com/Sagarkumar1911">
-        <img src="https://github-readme-stats.vercel.app/api?username=Sagarkumar1911&show_icons=true&theme=radical&count_private=true" alt="Sagar's GitHub Stats" />
-      </a>
-      <h3>🔋 Core Identity</h3>
-      <p><i>Data Science Enthusiast & Competitive Programmer</i></p>
-    </td>
   </tr>
 </table>
 
-<h3>🛠 Tech Stack</h3>
+<h3 align="center">🔋 Core Identity</h3>
+<p align="center"><i>Data Science Enthusiast & Competitive Programmer</i></p>
+
+<br>
+
+<h3 align="center">🛠 Tech Stack</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <br>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLOps-000000?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
+
+<br>
 
 <p align="center">
   <b>📬 Get in Touch:</b> <a href="mailto:kumarsagarf@gmail.com">Email</a> | <a href="https://github.com/Sagarkumar1911">GitHub</a>
